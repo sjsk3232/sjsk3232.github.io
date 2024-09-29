@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yesung # the main title
+title: YSL Dev Note # the main title
 
-tagline: "- 한 번 적어보는 개발 일기 -" # it will display as the subtitle
+tagline: "- Slow but Steady -" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  일기같이 적어보는 개발 기록 블로그
+  알고리즘 문제 풀이나 개발 공부를 통해 배운 내용을 일기같이 기록해 언제든 꺼내볼 수 있는 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
