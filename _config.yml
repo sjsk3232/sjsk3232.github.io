@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: YSL Dev Note # the main title
+title: Yes Dev Note # the main title
 
-tagline: "- Slow but Steady -" # it will display as the subtitle
+tagline: "- Slow but, Steady -" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   알고리즘 문제 풀이나 개발 공부를 통해 배운 내용을 일기같이 기록해 언제든 꺼내볼 수 있는 블로그입니다.
