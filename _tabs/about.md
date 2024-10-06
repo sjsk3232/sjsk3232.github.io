@@ -7,14 +7,14 @@ order: 4
 <h1 align="center">Hi 👋, I'm Yesung-Lim</h1>
 <h3 align="center">A passionate backend developer from South Korea</h3>
 
-- 📝 I regularly write articles on [https://sjsk3232.github.io](https://sjsk3232.github.io)
+📝 I regularly write articles on [https://sjsk3232.github.io](https://sjsk3232.github.io)
 
-- 📫 How to reach me **sjsk3232@gmail.com**
+📫 How to reach me **sjsk3232@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://sjsk3232.github.io/feed.xml" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sjsk3232.github.io/feed" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sjsk3232.github.io/feed" height="30" width="40">
     </a>
 </p>
 
