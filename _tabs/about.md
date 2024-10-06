@@ -12,11 +12,7 @@ order: 4
 📫 How to reach me **sjsk3232@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://sjsk3232.github.io/feed.xml" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sjsk3232.github.io/feed" height="30" width="40">
-    </a>
-</p>
+<p align="left"><a href="https://sjsk3232.github.io/feed.xml" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sjsk3232.github.io/feed" height="30" width="40" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
