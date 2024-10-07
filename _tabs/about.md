@@ -12,14 +12,12 @@ order: 4
 📫 How to reach me **sjsk3232@gmail.com**
 
 ### Connect with me:
-<p align="left">
-    <a href="https://sjsk3232.github.io/feed.xml" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sjsk3232.github.io/feed" height="30" width="40" />
-    </a>
-</p>
+<a align="left" href="https://sjsk3232.github.io/feed.xml">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sjsk3232.github.io/feed" height="30" width="40" />
+</a>
 
 ### Languages and Tools:
-<pre align="left">
+<p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
@@ -83,6 +81,6 @@ order: 4
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
     </a>
-</pre>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sjsk3232&show_icons=true&locale=en&layout=compact" alt="sjsk3232" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjsk3232&show_icons=true&locale=en&layout=compact" alt="sjsk3232" />
