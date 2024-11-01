@@ -1,5 +1,5 @@
 ---
-title: git 커밋 메시지 작성법
+title: Git 커밋 메시지 작성법
 date: 2024-11-01 15:15:57 +0900
 categories: [Git]
 tags: [Git, commit, 커밋]
@@ -100,3 +100,6 @@ Clients need to update their request headers with a JWT token.
 
 Fixes #245
 ```
+
+## **참조**
+[AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
