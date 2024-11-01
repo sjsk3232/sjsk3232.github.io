@@ -1,6 +1,6 @@
 ---
 title: Git 커밋 메시지 작성법
-date: 2024-11-01 15:15:57 +0900
+date: 2024-11-01 15:15:58 +0900
 categories: [Git]
 tags: [Git, commit, 커밋]
 ---
@@ -16,6 +16,8 @@ tags: [Git, commit, 커밋]
 ```
 
 커밋 메시지의 각 줄이 **100자를 넘지 않게** 작성해야 함
+
+---
 
 ### **제목**
 
@@ -55,10 +57,14 @@ tags: [Git, commit, 커밋]
 #### **사용 예시**
 `feat(auth): implement JWT authentication`
 
+---
+
 ### **본문**
 
 제목에서 작성할 수 없는 상세한 정보를 설명하기 위한 내용이다.
 제목에서 이미 충분한 설명이 됐다면, **생략 가능**하다.
+
+---
 
 ### **꼬리말**
 
@@ -84,6 +90,8 @@ Github 이슈 번호와 함께 아래의 키워드를 사용하면, 커밋함과
 
 해당 커밋이 하위 버전과 호환되지 않는다는 경고를 하기 위해 사용한다.
 
+---
+
 ### **커밋 메시지 예시**
 
 ```
@@ -100,6 +108,8 @@ Clients need to update their request headers with a JWT token.
 
 Fixes #245
 ```
+
+---
 
 ## **참조**
 [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
