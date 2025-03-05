@@ -64,5 +64,6 @@ Git은 분산 버전 관리 시스템의 한 종류이다.
 웹을 통해 git 저장소 서버의 유지 및 관리를 용이하게 하는 서비스이다.  
 github, gitlab 등이 있으며, CI/CD 등을 위해 원하는 작업을 자동으로 수행해주는 github actions나 gitlab CI/CD 등의 강력한 기능들을 제공한다.
 
+---
 ## **참조**
-[Scott Chacon and Ben Straub. Pro Git 2nd Edition: Apress, 2014.](https://git-scm.com/book/ko/v2)
+- [Scott Chacon and Ben Straub. Pro Git 2nd Edition: Apress, 2014.](https://git-scm.com/book/ko/v2)
