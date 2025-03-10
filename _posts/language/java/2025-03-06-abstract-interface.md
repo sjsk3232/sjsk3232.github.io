@@ -78,7 +78,6 @@ class Bear implements Animal, Wild {
 Java는 기본적으로 단일 상속만 지원하지만, 위 `Bear` 클래스처럼 여러 인터페이스를 다중으로 상속받을 수 있다.
 > 인터페이스의 추상 메소드는 구현되어있지 않기 때문에, 다중 상속으로 인한 충돌이 발생하지 않기 때문
 
-
 ```java
 interface WildAnimal extends Animal, Wild {
     public abstract void howl();
@@ -116,6 +115,7 @@ class Tiger implements WildAnimal {
 1. 추상 메소드를 가지고 있어야 함  
 2. 객체 생성 불가능  
 3. 인터페이스를 구현하거나 추상 클래스를 상속한 클래스는 추상 메소드를 반드시 구현해야 함
+4. 상위 클래스/인터페이스에 정의된 메소드를 재정의(Overriding)할 때, 접근 제어자를 더 개방적인 접근 제어자로 변경 가능
 
 ### **차이점**
 
