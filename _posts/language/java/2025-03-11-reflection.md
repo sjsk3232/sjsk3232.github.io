@@ -92,6 +92,8 @@ method.invoke(example);  // "Private Method" 출력
 
 이외에도 리소스 경로 얻기, 생성자로 객체 생성 등 여러가지 동작을 수행할 수 있다.
 
+<br>
+
 ---
 ## **어노테이션 (Annotation)**  
 어노테이션이라는 단어의 의미는 `주석`이다.  
