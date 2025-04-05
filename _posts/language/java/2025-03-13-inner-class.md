@@ -140,9 +140,13 @@ class Outer3 {
     private int age = 10;
     private static void print() {
         System.out.println("Outer3");
+        System.out.println(Inner3.price); // 접근 가능
     }
     
     static class Inner3 {
+        private static int price = 300;
+        private int count = 5;
+
         public void print() {
             System.out.println(name); // 접근 가능
             // System.out.println(age); 접근 불가
