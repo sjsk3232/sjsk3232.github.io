@@ -1,5 +1,5 @@
 ---
-title: 커넥션풀과 데이터소스
+title: 커넥션풀과 DataSource
 date: 2025-04-09 13:46:06 +0900
 categories: [Backend, Spring]
 tags: [Spring, 커넥션풀]
