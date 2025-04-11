@@ -2,7 +2,7 @@
 title: 커넥션풀과 DataSource
 date: 2025-04-09 13:46:06 +0900
 categories: [Backend, Spring]
-tags: [Spring, 커넥션풀]
+tags: [Spring, 커넥션풀, JDBC]
 math: true
 incomplete: false
 ---
