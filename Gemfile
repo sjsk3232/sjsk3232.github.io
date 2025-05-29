@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gem 'jekyll'
 
-gem "jekyll-theme-chirpy", "~> 7.1", ">= 7.1.1"
+gem "jekyll-theme-chirpy", "~> 7.3"
 
 gem "html-proofer", "~> 5.0", group: :test
 
@@ -13,7 +13,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
 
