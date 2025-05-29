@@ -4,7 +4,6 @@ date: 2025-04-11 17:05:41 +0900
 categories: [Backend, Spring]
 tags: [Spring, 트랜잭션, ACID]
 math: true
-incomplete: false
 ---
 
 ## **트랜잭션**

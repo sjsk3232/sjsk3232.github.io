@@ -4,7 +4,6 @@ date: 2025-05-28 22:31:24 +0900
 categories: [Backend, Spring]
 tags: [Spring, bean]
 math: true
-incomplete: false
 ---
 
 ## **빈의 생명주기**
